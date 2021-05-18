@@ -1,3 +1,2 @@
-This is the file1
-Hello world!
+This is the file1 Hello world!
 
